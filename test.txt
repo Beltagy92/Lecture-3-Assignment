@@ -3,8 +3,4 @@ Hello World
 Hello World
 Hello World
 Hello World
-Hello World
-Hello World
-Hello World
-Hello World
-Hello World
+I Love Python
